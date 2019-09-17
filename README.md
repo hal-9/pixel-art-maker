@@ -3,7 +3,7 @@
 
 ## Instructions
 
-You can either visit https://tunikb.github.io/pixel-art-maker/ or clone/download a local version to your computer
+You can either visit https://hal-9.github.io/pixel-art-maker/ or clone/download a local version to your computer
 to run it by opening the index.html file in your browser.
 
 * As soon as the page is loaded, you are presented with a tool to create a grid
